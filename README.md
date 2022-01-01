@@ -8,6 +8,27 @@ This project required 3 steps:
   2. create machine learning pipeline to analyze messages and optomize model to correctly classify labels for that text.
   3. Create web aplication that can show 2 graphs of overviews of the messages, as well as a input bar that could read a message and correctly classify what label it would belong to.
 
+### File Descriptions:
+
+**app**
+
+  - template
+    - master.html `main page of web app`
+    - go.html `classification result page of web app`
+  - run.py # `Flask file that runs app`
+
+**data**
+
+  - disaster_categories.csv `data to process`
+  - disaster_messages.csv  `data to process`
+  - process_data.py  `data cleaning pipeline`
+  - DisasterResponse.db  `database saved after cleansed`
+
+**models**
+
+  - train_classifier.py  ` machine learning pipeline`
+  - classifier.pkl  `saved model`
+
 
 ### Instructions:
 The way you can run this project:
