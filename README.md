@@ -1,7 +1,6 @@
 # Disaster Response Pipeline Project
-This is Udacity Data Science Nanodegree natural language processing project, to predict types of disaster messages.
 
-This project is for the Data Engineering section. The bassis of this project is to look at data provided by FigureEight. The data are tweets and texts that were sent during real world disasters and can be labeled into at least one of 36 categories. 
+This project is for the Data Engineering section for Udacity Data Science Nanodegree. The bassis of this project is to look at data provided by FigureEight. The data are tweets and texts that were sent during real world disasters and can be labeled into at least one of 36 categories. 
 
 This project required 3 steps:
   1. Create ETL process of data from CSV files and upload cleansed data to a SQLite database.
