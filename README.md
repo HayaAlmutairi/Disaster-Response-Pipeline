@@ -55,6 +55,11 @@ The way you can run this project:
     
 #### The App will look like:
 ![image](https://user-images.githubusercontent.com/70536290/147861198-63764326-9115-49e0-b06f-8f0eb07a10bc.png)
+1[image](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*41LPRKIzDS66Dfh2.jpeg)
+1[image](https://miro.medium.com/v2/resize:fit:828/format:webp/0*NOT_LXd7Xin2hb1L.jpeg)
+
+
+
 
     
 
